@@ -11,6 +11,7 @@ import {
   FlatList,
   TouchableOpacity,
   Image,
+  Button,
 } from 'react-native';
 
 const Drawer = createDrawerNavigator();
